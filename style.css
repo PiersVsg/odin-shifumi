@@ -1,0 +1,29 @@
+body {
+	display: flex;
+	flex-direction: column;
+	margin: 0px;
+	border: 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	color: whitesmoke;
+	background-color: teal;
+}
+
+h1 {
+	font-size: 45px;
+	font-weight: bold;
+	color: whitesmoke;
+}
+
+input {
+	border: none;
+	border-radius: 8px;
+	padding: 12px 24px;
+	font-size: 16px;
+	color:  whitesmoke;
+	background-color: #2E3440;
+}
+
+input:hover {
+	background-color: slategrey;
+}
