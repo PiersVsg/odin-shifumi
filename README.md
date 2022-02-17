@@ -1,6 +1,6 @@
 # Odin Project #3: Shifumi 
  
-Lien: piersvsg.github.io/odin-shifumi
+Lien: https://piersvsg.github.io/odin-shifumi/
 
 Réalisation d’un jeu Pierre Feuilles Ciseaux, écrit en JavaScript
 
